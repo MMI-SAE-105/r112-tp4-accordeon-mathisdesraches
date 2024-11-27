@@ -7,7 +7,7 @@
     max-width: 30%;
     position: relative;
     overflow: hidden;
-    background-color: #ffffff;
+    background-color: #fff;
     transition: border-color 0.3s ease;
 }
 

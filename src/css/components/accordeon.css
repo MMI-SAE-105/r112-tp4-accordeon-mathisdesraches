@@ -1,3 +1,16 @@
 /**
 * Accordeon
 */
+details {
+    margin: 1rem;
+    padding: 0.5rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    background-color: #f0f0f0;
+    transition: background-color 0.3s ease;
+    }
+    
+details[open] {
+    background-color: #d9f2d9;
+    border-color: #4caf50;
+    }
